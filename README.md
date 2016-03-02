@@ -1,4 +1,4 @@
-# ACS-F-readers
+# ACS-F readers
 
 This is a collection of readers for the ACS-F databases:
 * ACS-F1 (http://www.wattict.com/web/index.php/databases/acs-f1)
